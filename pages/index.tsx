@@ -32,21 +32,13 @@ const Index = (props: IIndexProps) => {
             <div className="flex flex-col items-center product-list text-center   relative w-full">
              <div className="bg_container w-full relative">
              <div className=" hidden text-center absolute top-0 bottom-0 left-0 right-0 md:flex flex-col justify-center">
-               <div className="bg-opacity w-2/4 mx-auto border-2 border-gold">
-      <h1 className="text-white uppercase text-4xl leading-10 mt-8">in caviar 
-we trust</h1>
-<div className="flex justify-center mt-4 mb-10 ease-linea  ">
-        <img className="mr-1.5 w-1.5" src="/static/image 2.svg" alt=""  />
-        <img className="mr-1.5 mt-2 w-1.5" src="/static/image 3.svg" alt="" />
-        <img className="w-1.5"src="/static/image 6.svg" alt=""/>
-      </div >
-      </div>
+               
      </div >
      
               <img className="md:h-screen md:object-cover bg_small object-cover w-full pt-16" src="/static/Bgsmall.jpg" alt=""  />
             </div>
           <div className="text-center md:hidden ">
-      <h1 className="text-white uppercase text-2xl leading-10 mt-8">in caviar
+   <h1 className="text-white uppercase text-2xl leading-10 mt-8">in caviar
 we trust</h1>
       <div className="flex justify-center mt-4 mb-10 ease-linea  ">
         <img className="mr-1.5 w-1.5" src="/static/image 2.svg" alt=""  />
