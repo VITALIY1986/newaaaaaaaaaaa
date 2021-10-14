@@ -50,6 +50,8 @@ const Index = (props: IIndexProps) => {
   
     <Contact />
     <Footer />
+
+   <div className="text-white">zxcvzcxvzxcv</div>
 </div>
   )
 }
